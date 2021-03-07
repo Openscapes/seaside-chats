@@ -8,3 +8,4 @@ What are [Seaside Chats](https://www.openscapes.org/blog/2019/03/10/seaside-chat
 - [Fishbowl Chats](https://pinsky.marine.rutgers.edu/fishbowl-chat-1/) — Malin Pinsky's research group at Rutgers
 - [NOAA EDAB](https://github.com/NOAA-EDAB/seaside/projects/2) — Scott Large's research group at NOAA Northeast Fisheries Science Center
 - [Seaside Chats](https://github.com/stier-lab/Seaside-chats/projects/1) – Adrian Stier's research group at UC Santa Barbara
+- [Turkeyside Chats](https://twitter.com/gavin_fay/status/1329083089729978372) – Gavin Fay's research group at University of Massachusetts Dartmouth
